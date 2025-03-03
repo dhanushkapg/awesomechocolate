@@ -54,19 +54,19 @@ Identifies inefficiencies in logistics and sales.
 <h2></h2>Conclusion</h2>
 The dashboard is a powerful business intelligence tool for monitoring key performance areas.
 Helps stakeholders make data-driven decisions to enhance sales, shipments, and profitability.
-<img src="https://github.com/dhanushkapg/SalesAnalysis/blob/main/1728043350258.jpeg"/>
+<img src="https://github.com/dhanushkapg/awesomechocolate/blob/main/3.png"/>
 <br/>
 <br>
 
 <h2>Sales Variance Dashboard</h2>
 <p align="center">
 
-<img src="https://github.com/dhanushkapg/SalesAnalysis/blob/main/1728043296879.jpeg"/>
+<img src="https://github.com/dhanushkapg/awesomechocolate/blob/main/2.png"/>
 <br/>
 <br>
 
 <h2>Sales Goals Dashboard</h2>
 <p align="center">
 
-<img src="https://github.com/dhanushkapg/SalesAnalysis/blob/main/1728043281844.jpeg"/>
+<img src="https://github.com/dhanushkapg/awesomechocolate/blob/main/1.png"/>
 <br/>
