@@ -1,7 +1,7 @@
 <h1>Sales and Shipment Performance Analysis for Awesome Chocolates Private Limited</h1>
 
 <h2>Project Overview</h2>
-his project focuses on analyzing and visualizing sales, shipment, and profitability data for Awesome Chocolates Private Limited using an interactive Power BI dashboard. The objective is to provide a 360-degree business performance overview, enabling data-driven decision-making by stakeholders.
+This project focuses on analyzing and visualizing sales, shipment, and profitability data for Awesome Chocolates Private Limited using an interactive Power BI dashboard. The objective is to provide a 360-degree business performance overview, enabling data-driven decision-making by stakeholders.
 <br/>
 <br/>
 1. Sales Performance
